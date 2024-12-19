@@ -1,8 +1,4 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**My Travel Log**:  
+A React.js web application created to document and organize the places I dream of traveling to. This personal travel log includes details like images, descriptions, and notes for each destination, making it a visually engaging and meaningful way to plan and reflect on future adventures. The app showcases a dynamic user interface, responsive design, and efficient state management tailored to my travel goals.
